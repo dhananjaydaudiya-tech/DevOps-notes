@@ -1,2 +1,7 @@
 # DevOps-notes
-A complete collection of DevOps learning notes and practical commands for beginners.
+This repository contains:
+Git commands
+Linux commands
+Docker notes
+Jenkins notes
+CI/CD concepts
